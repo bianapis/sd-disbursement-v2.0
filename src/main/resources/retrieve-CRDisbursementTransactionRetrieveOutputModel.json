@@ -1,0 +1,27 @@
+{
+  "disbursementTransactionRetrieveActionTaskRecord" : {},
+  "disbursementTransactionInstanceRecord" : {
+    "productInstanceReference" : "719325",
+    "amount" : "USD 250",
+    "fundingAccountReference" : "763458",
+    "payeeReference" : "722806",
+    "payeeProductInstanceReference" : "798012",
+    "authorizingEmployeeReference" : "761905",
+    "customerReference" : "789270",
+    "payeeBankReference" : "772471",
+    "currency" : "USD",
+    "valueDate" : "09-22-2018"
+  },
+  "disbursementTransactionRetrieveActionTaskReference" : "DTRATR754569",
+  "disbursementTransactionInstanceReportRecord" : {
+    "disbursementTransactionInstanceReportType" : "disbursementTransactionInstanceReportType",
+    "disbursementTransactionInstanceReport" : {},
+    "disbursementTransactionInstanceReportData" : "disbursementTransactionInstanceReportData"
+  },
+  "disbursementTransactionInstanceAnalysis" : {
+    "disbursementTransactionInstanceAnalysisData" : "disbursementTransactionInstanceAnalysisData",
+    "disbursementTransactionInstanceAnalysisReportType" : "disbursementTransactionInstanceAnalysisReportType",
+    "disbursementTransactionInstanceAnalysisReport" : {}
+  },
+  "disbursementTransactionRetrieveActionResponse" : "disbursementTransactionRetrieveActionResponse"
+}

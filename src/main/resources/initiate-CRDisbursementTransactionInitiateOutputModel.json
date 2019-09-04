@@ -1,0 +1,9 @@
+{
+  "disbursementTransactionInitiateActionRecord" : {},
+  "disbursementTransactionInitiateActionReference" : "DTIAR728557",
+  "disbursementTransactionInstanceRecord" : {
+    "valueDate" : "09-22-2018"
+  },
+  "disbursementTransactionInstanceStatus" : "disbursementTransactionInstanceStatus",
+  "disbursementTransactionInstanceReference" : "DTIR756582"
+}

@@ -1,0 +1,17 @@
+{
+  "disbursementTransactionInstanceRecord" : {
+    "productInstanceReference" : "776543",
+    "amount" : "USD 250",
+    "fundingAccountReference" : "773153",
+    "payeeReference" : "728961",
+    "payeeProductInstanceReference" : "744810",
+    "authorizingEmployeeReference" : "778067",
+    "customerReference" : "743592",
+    "payeeBankReference" : "741535",
+    "currency" : "USD",
+    "valueDate" : "09-22-2018"
+  },
+  "updateResponseRecord" : {},
+  "disbursementTransactionUpdateActionTaskReference" : "DTUATR735490",
+  "disbursementTransactionUpdateActionTaskRecord" : {}
+}

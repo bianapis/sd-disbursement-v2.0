@@ -1,0 +1,18 @@
+{
+  "disbursementTransactionRequestActionTaskRecord" : {},
+  "requestRecordReference" : "RRR708024",
+  "disbursementTransactionInstanceRecord" : {
+    "productInstanceReference" : "789658",
+    "amount" : "USD 250",
+    "fundingAccountReference" : "797119",
+    "payeeReference" : "735861",
+    "payeeProductInstanceReference" : "728209",
+    "authorizingEmployeeReference" : "786510",
+    "customerReference" : "768822",
+    "payeeBankReference" : "757714",
+    "currency" : "USD",
+    "valueDate" : "09-22-2018"
+  },
+  "disbursementTransactionRequestActionTaskReference" : "DTRATR742960",
+  "requestResponseRecord" : {}
+}
